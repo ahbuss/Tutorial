@@ -1,0 +1,7 @@
+2016-12-06
+ - Created new repository on GitHub
+    - "Tutorial" - URL: https://github.com/ahbuss/Tutorial.git
+ - Created new local project
+    - Initialize local repository
+    - Commit to local repository
+    - Push to remote
